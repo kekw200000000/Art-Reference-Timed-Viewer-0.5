@@ -1,0 +1,10 @@
+ArtReferenceTimedViewer/bin
+ArtReferenceTimedViewer/obj
+ArtReferenceTimedViewer/Properties/PublishProfiles
+
+ArtReferenceTimedViewerLibrary/bin
+ArtReferenceTimedViewerLibrary/obj
+
+.vs
+
+*.user
