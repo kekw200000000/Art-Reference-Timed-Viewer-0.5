@@ -1,7 +1,11 @@
 # Art Reference Timed-Viewer
-This app allows you to set up timed-reference viewing sessions for drawing/painting/... practice using your own library of references.
+This app allows you to set up timed-reference viewing sessions for drawing/painting/... practice using your own library of references.\
 
-# THIS IS ONLY A WORKING PROTOTYPE
+![Session screen](misc/session_screen_elements.png)
+
+![Main screen](misc/main_screen_elements.png)
+
+# THIS IS ONLY A PROTOTYPE
 The program is very unpolished; the code is a mess, likely not very extensible, features are missing, the way of storing and retrieving usage statistics is not suited for longer use timeframes, the UI is subject to change (I personally like the old Windows hobby program aesthetic, but I digress), and RAM consumption is needlessly high, as is the compiled binary size. The plan is to rewrite the whole thing in a different framework and language, eventually.
 Having non-(.jpg/.png) format files renamed to (.jpg/.png) in your reference folder(s) can result in a crash, as the program currently takes the supplied file extensions at face value.
 
